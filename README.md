@@ -1,6 +1,8 @@
 # A11yImage
 A project to solve the issue of inaccessible images in social media with a focus on Twitter
 
+This readme is not yet up-to-date. See the wiki for more information.
+
 ##Summary
 
 Create and implement a standard for embedding descriptive information (intended for visually impaired users and those using browsers or internet connections which cannot support images) in images without relying on additional html content to accompany them. The key component of this is that the descriptive information is embedded directly in the image file (though perhaps can also be requested independent of the file for limited/headless browsers which do not support images). First-guess techniques for embedding the information would be exactly those used by criminals and terrorists to steganographically hide data inside otherwise benign images (eg: coercing low-order bits in jpegs)
